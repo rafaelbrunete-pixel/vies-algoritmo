@@ -1,2 +1,13 @@
-# vies-algoritmo
-Relatório de análise de viés e estratégias de mitigação em Machine Learning 
+# Relatório de Fairness em Machine Learning
+
+Este repositório reúne o relatório completo sobre viés de algoritmos e técnicas de mitigação em ML.
+
+## Arquivo principal
+
+- documento de suporte.pdf
+
+## Como baixar
+
+Clique neste link para abrir ou baixar o PDF:  
+[📄 Baixar relatório](./documento%20de%20suporte.pdf)
+
