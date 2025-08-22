@@ -1,4 +1,4 @@
-# Relatório de Fairness em Machine Learning
+# relatório completo sobre viés de algoritmos e técnicas de mitigação em M
 
 Este repositório reúne o relatório completo sobre viés de algoritmos e técnicas de mitigação em ML.
 
