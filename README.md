@@ -1,4 +1,4 @@
-# relatório completo sobre viés de algoritmos e técnicas de mitigação em M
+# relatório completo sobre viés de algoritmos e técnicas de mitigação em ML
 
 Este repositório reúne o relatório completo sobre viés de algoritmos e técnicas de mitigação em ML.
 
